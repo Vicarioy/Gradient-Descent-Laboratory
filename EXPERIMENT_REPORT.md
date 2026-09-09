@@ -30,4 +30,4 @@ This is not a performance benchmark. The datasets are small, synthetic, and easy
 
 ## Conclusion
 
-The laboratory implementation is suitable for studying how gradient descent trains regression and classification models. The results are consistent with the scikit-learn reference implementations on the selected experiments. Further work should add repeated splits, real datasets, regularization, decision-boundary visualization, and automated tests before drawing broader conclusions.
+The laboratory implementation is suitable for studying how gradient descent trains regression and classification models. The results are consistent with the scikit-learn reference implementations on the selected experiments. Further work will add repeated splits, real datasets, regularization, decision-boundary visualization, and automated tests before drawing broader conclusions.
